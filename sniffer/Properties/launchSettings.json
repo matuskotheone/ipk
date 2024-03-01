@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "ipk_sniffer": {
+      "commandName": "Project",
+      "commandLineArgs": "-i"
+    },
+    "Profile 2": {
+      "commandName": "Project",
+      "commandLineArgs": "-i Wi-Fi  -p 22 --tcp --udp --icmp4 --icmp6 --arp --ndp --igmp --mld"
+    },
+    "Profile 3": {
+      "commandName": "Project",
+      "commandLineArgs": "-i\r\n\r\n"
+    },
+    "Ba": {
+      "commandName": "Project",
+      "commandLineArgs": "-i Wi-Fi -t -n 10"
+    }
+  }
+}

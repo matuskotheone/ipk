@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncV5HFVBkzgwbDPLmU/ySS0NqmSW9Zfdj4zBs0CTWeSDuan8tEkdcrC2ms4cXM3ROm1iud78S5hb+JBeYlbQ2w==",
+  "success": true,
+  "projectFilePath": "/home/matusovafedora/skola/ipk/proj2/proj2/ipk-sniffer.csproj",
+  "expectedPackageFiles": [
+    "/home/matusovafedora/.nuget/packages/packetdotnet/1.4.6/packetdotnet.1.4.6.nupkg.sha512",
+    "/home/matusovafedora/.nuget/packages/sharppcap/6.2.5/sharppcap.6.2.5.nupkg.sha512",
+    "/home/matusovafedora/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/matusovafedora/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/matusovafedora/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

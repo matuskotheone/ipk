@@ -1,0 +1,2 @@
+# [1.0.0] - 2023.4.17
+Network sniffer should work and I am not aware of any outstanding changes or issues with this release. Please let me know if you encounter any problems or have any suggestions for improvement.
